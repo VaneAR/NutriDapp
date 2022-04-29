@@ -4,6 +4,12 @@ NutriDapp
 This [React] app was initialized with [create-near-app]
 
 
+¿Qué es NutriDapp?
+==================
+NutriDapp es una aplicación con la cual se pretende motivar a los usuarios a seguir planes alimentición, esto con la intención de aportar a la sociedad una herramienta que sea auxiliar en la disminución de los altos índices de obesidad, lo cual conlleva desarrollo de enfermedades crónico degenerativas ocasionando la muerte temprana de las personas.
+NutriDapp se centra en la creación de retos enfocados en pérdida de peso, tallas y diferentes medidas, donde como motivación existe una recompensa, la cual se proporciona al paciente que haya conseguido mejores resultados a lo largo de la duración del reto. El fondo para esta recompensa se obtiene a partir de una cuota que paga el paciente para poder registrarse en el reto.
+
+
 Quick Start
 ===========
 
@@ -100,8 +106,4 @@ On Windows, if you're seeing an error containing `EPERM` it may be related to sp
   [NEAR Wallet]: https://wallet.testnet.near.org/
   [near-cli]: https://github.com/near/near-cli
   [gh-pages]: https://github.com/tschaub/gh-pages
-# nutri_dapp
-# nutri_dapp
-# NutriDAPP
-# NutriDAPP
-# NutriDapp
+
